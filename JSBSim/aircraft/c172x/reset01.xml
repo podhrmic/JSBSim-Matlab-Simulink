@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<initialize name="reset01">
-  <vc unit="KTS">    84.0  </vc>
-  <latitude unit="DEG">   47.0  </latitude>
-  <longitude unit="DEG"> 122.0  </longitude>
-  <psi unit="DEG">       200.0  </psi>
-  <altitude unit="FT">  4000.0  </altitude>
-  <running> 0 </running>
-</initialize>
