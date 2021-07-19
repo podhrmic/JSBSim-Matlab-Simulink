@@ -1,4 +1,6 @@
 # JSBSim-Matlab-Simulink
+**NOTE: This repo is archived now, as this functionality has been merged to JSBSim - see https://github.com/JSBSim-Team/jsbsim/tree/master/matlab**
+
 for reference only -> S function for Simulink integration
 
 ## Installation
